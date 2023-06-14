@@ -10,7 +10,7 @@ import (
 )
 
 type (
-	byte uint8
+	byte uint8 //byte是uint8的別名
 	rune int8
 	テキスト string
 )
