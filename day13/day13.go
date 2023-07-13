@@ -36,5 +36,5 @@ func main() {
 	//ms = make(map[string]string)
 	ms["price"] = 200
 	fmt.Println(ms["price"])
-
+	//////////////////////////////
 }
